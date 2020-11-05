@@ -9,6 +9,7 @@ import StartGameScreen from './screens/StartGameScreen'
 import GameScreen from './screens/GameScreen'
 import GameOverScreen from './screens/GameOverScreen'
 
+
 const fetchFonts = () => {
   return Font.loadAsync({
     'octin-sport' : require('./assets/fonts/Octin-Sports-Heavy.ttf')
